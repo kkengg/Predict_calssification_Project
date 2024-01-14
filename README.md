@@ -1,2 +1,2 @@
 # Predict_calssification_Project
-Dads6003_ML
+For this project, I am employing a classification model to predict stock prices for buying or selling, utilizing data from ERW, SPRC, and Tisco. I will assess the model's performance using the Area Under the Curve (AUC) metric. Additionally, I plan to identify significant days, including political events, by analyzing the weights assigned by the Prophet algorithm. The dataset includes data from specified dates.
